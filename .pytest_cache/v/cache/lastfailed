@@ -1,3 +1,4 @@
 {
-  "test/index_test.py": true
+  "test/index_test.py::S256Test": true,
+  "test/index_test.py::TestCase": true
 }

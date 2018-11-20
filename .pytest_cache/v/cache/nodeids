@@ -1,1 +1,3 @@
-[]
+[
+  "test/index_test.py::S256Test::test_sec"
+]
